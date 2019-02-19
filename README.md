@@ -15,5 +15,5 @@ Start rabbitmq
 Start mongodb
 Start redis 
 Start server
-node www instead of double-click
+node www
 
